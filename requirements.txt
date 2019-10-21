@@ -35,7 +35,6 @@ prompt-toolkit==2.0.10
 pygame==1.9.6
 Pygments==2.4.2
 pymongo==3.9.0
-pypiwin32==223
 pyrsistent==0.15.4
 PySocks==1.7.0
 python-dateutil==2.8.0
