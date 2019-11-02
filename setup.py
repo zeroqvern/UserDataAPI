@@ -81,9 +81,9 @@ def start():
             status = MM.updateUserKeywords(keywords, id)
 
             if status == True:
-                output = {"Status": "001"}
+                output = {"status": "001"}
             else:
-                output = {"Status" : "002"}
+                output = {"status" : "002"}
 
             return jsonify(output)
 # ---------------------------------------------------------------------------------------------------------------------#
